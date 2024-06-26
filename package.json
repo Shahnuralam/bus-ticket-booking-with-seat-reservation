@@ -1,0 +1,23 @@
+{
+  "name": "bus-ticket-booking-with-seat-reservation",
+  "version": "1.0.0",
+  "description": "=== Bus Ticket Booking with Seat Reservation === Contributors: magepeopleteam, aamahin, shohan777, arifulislamnayem Tags: bus ticket booking with seat reservation, bus ticket booking for wordpress Requires at least: 4.5 Stable tag: trunk Tested up to: 6.0 Requires PHP: 7.0 WC requires at least: 3.0 WC tested up to: 6.5 License: GPLv2 or later License URI: http://www.gnu.org/licenses/gpl-2.0.html",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "start": "sass --watch sass/main.scss assets/admin/wbtm_admin.css",
+    "build": "sass --watch --style compressed sass/main.scss assets/admin/admin.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/magepeopleteam/bus-ticket-booking-with-seat-reservation.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/magepeopleteam/bus-ticket-booking-with-seat-reservation/issues"
+  },
+  "homepage": "https://github.com/magepeopleteam/bus-ticket-booking-with-seat-reservation#readme"
+}
