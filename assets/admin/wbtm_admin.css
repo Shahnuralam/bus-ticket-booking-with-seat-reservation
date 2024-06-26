@@ -217,6 +217,9 @@
   margin-top: -1px;
   margin-bottom: 0;
 }
+#mp_meta_box_panel .mpStyle .tabsContent .tabsItem input:read-only {
+  border: 0;
+}
 #mp_meta_box_panel .mpStyle .tabsContent .span-row {
   color: #6B7280;
   font-size: 13px;

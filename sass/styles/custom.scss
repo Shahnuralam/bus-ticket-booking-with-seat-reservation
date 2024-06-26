@@ -73,6 +73,9 @@
           margin-top: -1px;
           margin-bottom: 0;
         }
+        input:read-only {
+          border: 0;
+        }
        
       }
       .span-row{
